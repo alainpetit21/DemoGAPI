@@ -1,0 +1,3 @@
+- Dnas 3DDisplay.cpp removed every use of non-indexed geometry. (tools will generate anyway)
+-same in all 3d*.h
+-mettre les parametre dans les fonctiosn de .h
